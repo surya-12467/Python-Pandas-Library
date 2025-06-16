@@ -1,1 +1,2 @@
 # Python-Pandas-Library
+This notebook introduces the Python Pandas library with foundational examples and brief explanations. It covers the creation of DataFrames, data export to formats like CSV, and reading data back into Pandas. The notebook appears designed for beginners seeking hands-on experience with structured data manipulation, providing a stepping stone into more advanced data analysis tasks using Pandas.
